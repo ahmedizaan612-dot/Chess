@@ -52,12 +52,6 @@ All movement systems, move legality checks, attack detection, board state manage
 
 ---
 
-## Screenshots
-
-*Add screenshots here later*
-
----
-
 ## Future Improvements
 
 * Minimax AI
